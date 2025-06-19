@@ -87,4 +87,4 @@ Planned enhancements include:
 * Training a **custom Convolutional Neural Network (CNN)** model from scratch (instead of using a pre-trained MobileNetV2)
 * Applying all four quantization techniques to the custom model
 * Converting and evaluating the custom model in TensorFlow Lite format for efficient deployment
-
+* After training the model, make it more user-friendly for application use.
