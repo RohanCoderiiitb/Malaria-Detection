@@ -80,8 +80,11 @@ The script will:
 
 ## 🚧 Project Status
 
-This project is ongoing.
-Future enhancements will include:
-    * Training a custom CNN model from scratch (without transfer learning)
-    * Applying all four quantization techniques to the custom model
-    * Converting and evaluating the custom model in TensorFlow Lite format for deployment
+This project is **ongoing**.
+
+Planned enhancements include:
+
+* Training a **custom Convolutional Neural Network (CNN)** model from scratch (instead of using a pre-trained MobileNetV2)
+* Applying all four quantization techniques to the custom model
+* Converting and evaluating the custom model in TensorFlow Lite format for efficient deployment
+
